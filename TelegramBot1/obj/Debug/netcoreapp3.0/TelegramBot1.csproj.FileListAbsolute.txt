@@ -1,0 +1,14 @@
+C:\Users\Alina\source\repos\TelegramBot1\bin\Debug\netcoreapp3.0\TelegramBot1.exe
+C:\Users\Alina\source\repos\TelegramBot1\obj\Debug\netcoreapp3.0\TelegramBot1.csprojAssemblyReference.cache
+C:\Users\Alina\source\repos\TelegramBot1\obj\Debug\netcoreapp3.0\TelegramBot1.AssemblyInfoInputs.cache
+C:\Users\Alina\source\repos\TelegramBot1\obj\Debug\netcoreapp3.0\TelegramBot1.AssemblyInfo.cs
+C:\Users\Alina\source\repos\TelegramBot1\bin\Debug\netcoreapp3.0\TelegramBot1.deps.json
+C:\Users\Alina\source\repos\TelegramBot1\bin\Debug\netcoreapp3.0\TelegramBot1.runtimeconfig.json
+C:\Users\Alina\source\repos\TelegramBot1\bin\Debug\netcoreapp3.0\TelegramBot1.runtimeconfig.dev.json
+C:\Users\Alina\source\repos\TelegramBot1\bin\Debug\netcoreapp3.0\TelegramBot1.dll
+C:\Users\Alina\source\repos\TelegramBot1\bin\Debug\netcoreapp3.0\TelegramBot1.pdb
+C:\Users\Alina\source\repos\TelegramBot1\bin\Debug\netcoreapp3.0\Newtonsoft.Json.dll
+C:\Users\Alina\source\repos\TelegramBot1\bin\Debug\netcoreapp3.0\Telegram.Bot.dll
+C:\Users\Alina\source\repos\TelegramBot1\obj\Debug\netcoreapp3.0\TelegramBot1.csproj.CopyComplete
+C:\Users\Alina\source\repos\TelegramBot1\obj\Debug\netcoreapp3.0\TelegramBot1.dll
+C:\Users\Alina\source\repos\TelegramBot1\obj\Debug\netcoreapp3.0\TelegramBot1.pdb

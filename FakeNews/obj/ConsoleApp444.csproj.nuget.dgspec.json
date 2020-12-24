@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Xlebyshk\\Desktop\\ConsoleApp444\\ConsoleApp444.csproj": {}
+    "C:\\Users\\Xlebyshk\\Documents\\GitHub\\education\\FakeNews\\ConsoleApp444.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Xlebyshk\\Desktop\\ConsoleApp444\\ConsoleApp444.csproj": {
+    "C:\\Users\\Xlebyshk\\Documents\\GitHub\\education\\FakeNews\\ConsoleApp444.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Xlebyshk\\Desktop\\ConsoleApp444\\ConsoleApp444.csproj",
+        "projectUniqueName": "C:\\Users\\Xlebyshk\\Documents\\GitHub\\education\\FakeNews\\ConsoleApp444.csproj",
         "projectName": "ConsoleApp444",
-        "projectPath": "C:\\Users\\Xlebyshk\\Desktop\\ConsoleApp444\\ConsoleApp444.csproj",
+        "projectPath": "C:\\Users\\Xlebyshk\\Documents\\GitHub\\education\\FakeNews\\ConsoleApp444.csproj",
         "packagesPath": "C:\\Users\\Xlebyshk\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Xlebyshk\\Desktop\\ConsoleApp444\\obj\\",
+        "outputPath": "C:\\Users\\Xlebyshk\\Documents\\GitHub\\education\\FakeNews\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "D:\\Microsoft\\Xamarin\\NuGet\\"
